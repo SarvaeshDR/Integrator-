@@ -49,6 +49,7 @@ For Sine Wave Input:
 <img width="1374" height="879" alt="image" src="https://github.com/user-attachments/assets/0b521aa4-35bc-457e-ba6f-a6ab4d32946e" />
 <img width="1378" height="878" alt="image" src="https://github.com/user-attachments/assets/ec9741f1-805e-4490-ac6c-37e46814581c" />
 <img width="1377" height="879" alt="image" src="https://github.com/user-attachments/assets/ba089e17-d7d3-4395-8ff2-13f49e817ade" />
+
 ## Result
 The Integrator circuit using μA741 Op-Amp was successfully designed and simulated in Proteus.
 The output waveform is proportional to the integral of the input signal.
