@@ -35,6 +35,7 @@ For Sine Wave Input:
 5.	Set input waveform (1V, 1kHz).
 6.	Run simulation.
 7.	Observe input and output waveforms on CRO.
+
 ## Tabulation
 
 | **S.No** | **Input Signal** | **Frequency** | **Expected Output**          | **Practical Observation**                |
